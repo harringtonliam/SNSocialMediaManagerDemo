@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_805678_social_me_monitor</description>
+        <name>x_805678_social_me_monitor</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 10:11:41</sys_created_on>
+        <sys_id>1ffa32ae2f50111056c4d7a72799b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_805678_social_me_monitor</sys_name>
+        <sys_package display_value="Social Media Manager" source="x_805678_social_me">3ea1b2e22f50111056c4d7a72799b630</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</sys_scope>
+        <sys_update_name>sys_security_acl_1ffa32ae2f50111056c4d7a72799b62f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 10:11:41</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

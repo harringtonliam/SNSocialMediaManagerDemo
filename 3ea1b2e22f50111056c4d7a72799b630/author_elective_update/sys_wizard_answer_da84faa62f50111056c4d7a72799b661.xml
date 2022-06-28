@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Monitor</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Monitor</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">55464cb521120110a866589604c20d56</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 09:43:30</sys_created_on>
+        <sys_id>da84faa62f50111056c4d7a72799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monitor</sys_name>
+        <sys_package display_value="Social Media Manager" source="x_805678_social_me">3ea1b2e22f50111056c4d7a72799b630</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</sys_scope>
+        <sys_update_name>sys_wizard_answer_da84faa62f50111056c4d7a72799b661</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 09:43:30</sys_updated_on>
+        <table/>
+        <target_url>x_805678_social_me_monitor.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</application>
+        <file_path/>
+        <instance_id>4d496e05db09fb042f68c59705961904</instance_id>
+        <instance_name>dev83327</instance_name>
+        <name>sys_wizard_answer_da84faa62f50111056c4d7a72799b661</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Monitor</answer><button_label/><dependent_value/><element/><name>Monitor</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">55464cb521120110a866589604c20d56</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-28 09:43:30</sys_created_on><sys_id>da84faa62f50111056c4d7a72799b661</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Monitor</sys_name><sys_package display_value="Social Media Manager" source="x_805678_social_me">3ea1b2e22f50111056c4d7a72799b630</sys_package><sys_policy/><sys_scope display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</sys_scope><sys_update_name>sys_wizard_answer_da84faa62f50111056c4d7a72799b661</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-28 09:43:30</sys_updated_on><table/><target_url>x_805678_social_me_monitor.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>801453680</payload_hash>
+        <record_name>Monitor</record_name>
+        <reverted_from/>
+        <source>a428b4f22f00111056c4d7a72799b633</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-16 09:02:46</sys_created_on>
+        <sys_id>64f93e2e2f50111056c4d7a72799b660</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1816bc02ef00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>24f93e2ed950111016853d7076daf260</update_guid>
+        <update_guid_history>24f93e2ed950111016853d7076daf260:801453680</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 10:07:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>07ed3974e1964dc8aec4ef32f78c2a40</sys_id>
+        <sys_metadata>da84faa62f50111056c4d7a72799b661</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monitor</sys_name>
+        <sys_package display_value="Social Media Manager" source="x_805678_social_me">3ea1b2e22f50111056c4d7a72799b630</sys_package>
+        <sys_parent display_value="Task">55464cb521120110a866589604c20d56</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</sys_scope>
+        <sys_scope_delete display_value="">1d8e135a688349b59584b3aa793f2629</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_da84faa62f50111056c4d7a72799b661</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_da84faa62f50111056c4d7a72799b661">64f93e2e2f50111056c4d7a72799b660</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 10:07:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

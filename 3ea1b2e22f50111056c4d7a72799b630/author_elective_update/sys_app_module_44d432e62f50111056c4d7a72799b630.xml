@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Social Media Manager">f3c4f2262f50111056c4d7a72799b633</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_805678_social_me_monitor</name>
+        <order>5</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=false^EQ</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 09:44:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44d432e62f50111056c4d7a72799b630</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Media Manager" source="x_805678_social_me">3ea1b2e22f50111056c4d7a72799b630</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</sys_scope>
+        <sys_update_name>sys_app_module_44d432e62f50111056c4d7a72799b630</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 09:44:42</sys_updated_on>
+        <timeline_page/>
+        <title>Closed</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</application>
+        <file_path/>
+        <instance_id>4d496e05db09fb042f68c59705961904</instance_id>
+        <instance_name>dev83327</instance_name>
+        <name>sys_app_module_44d432e62f50111056c4d7a72799b630</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Social Media Manager">f3c4f2262f50111056c4d7a72799b633</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_805678_social_me_monitor</name><order>5</order><override_menu_roles>false</override_menu_roles><query>active=false^EQ</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-28 09:44:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>44d432e62f50111056c4d7a72799b630</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="Social Media Manager" source="x_805678_social_me">3ea1b2e22f50111056c4d7a72799b630</sys_package><sys_policy/><sys_scope display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</sys_scope><sys_update_name>sys_app_module_44d432e62f50111056c4d7a72799b630</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-28 09:44:42</sys_updated_on><timeline_page/><title>Closed</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-780389405</payload_hash>
+        <record_name>Closed</record_name>
+        <reverted_from/>
+        <source>faa1b2e22f50111056c4d7a72799b632</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 09:44:42</sys_created_on>
+        <sys_id>0cd432e62f50111056c4d7a72799b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181a9b2e65b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 09:44:42</sys_updated_on>
+        <type>Module</type>
+        <update_guid>44d432e6475011100b2bb2496b229631</update_guid>
+        <update_guid_history>44d432e6475011100b2bb2496b229631:-780389405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Closed">9ee9ba2e2f50111056c4d7a72799b668</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 10:06:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>07ed568965a74168b40f427256fd7110</sys_id>
+        <sys_metadata>44d432e62f50111056c4d7a72799b630</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_package display_value="Social Media Manager" source="x_805678_social_me">3ea1b2e22f50111056c4d7a72799b630</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Manager">3ea1b2e22f50111056c4d7a72799b630</sys_scope>
+        <sys_scope_delete display_value="">1d8e135a688349b59584b3aa793f2629</sys_scope_delete>
+        <sys_update_name>sys_app_module_44d432e62f50111056c4d7a72799b630</sys_update_name>
+        <sys_update_version display_value="sys_app_module_44d432e62f50111056c4d7a72799b630">0cd432e62f50111056c4d7a72799b631</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 10:06:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

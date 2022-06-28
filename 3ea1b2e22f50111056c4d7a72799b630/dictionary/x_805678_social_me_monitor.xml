@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Monitor" max_length="40" name="x_805678_social_me_monitor" sizeclass="0" type="collection">
+        <element label="Assessment notes" max_length="1000" name="assessment_notes" type="string"/>
+        <element label="User's handle(s)" max_length="250" name="handles" type="string_full_utf8"/>
+        <element label="Reply" max_length="40" name="reply" type="boolean"/>
+        <element label="Our response" max_length="1000" name="response" type="string"/>
+        <element label="Social Media Problem" max_length="32" name="social_media_problem_id" reference="x_805678_social_me_problem" type="reference"/>
+        <element choice="1" label="Source" max_length="40" name="source" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Facebook" sequence="0" value="facebook"/>
+                <element inactive_on_update="false" label="Instagram" sequence="1" value="instagram"/>
+                <element inactive_on_update="false" label="LinkedIn" sequence="2" value="linkedin"/>
+                <element inactive_on_update="false" label="Snapchat" sequence="3" value="snapchat"/>
+                <element inactive_on_update="false" label="Twitter" sequence="4" value="twitter"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+            </choice>
+        </element>
+        <element label="Other" max_length="40" name="source_other" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Positive" sequence="0" value="positive"/>
+                <element inactive_on_update="false" label="Negative" sequence="1" value="negative"/>
+            </choice>
+        </element>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <element label="Valid concern" max_length="40" name="valid_concern" type="boolean"/>
+    </element>
+</database>
